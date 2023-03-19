@@ -46,9 +46,11 @@ main{
 }
 
 .movie-img-wrapper{
-    background-size: cover;
-    width: auto;
-    height: 250px;
+    height: 400px; 
+    width: 300px; 
+    background-color: #607D8B; 
+    background-size: cover; 
+    transition: all .8s ease; 
 }
 #booker{
     display: flex;
